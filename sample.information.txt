@@ -1,0 +1,188 @@
+SampleID	                TissueName
+SRR3581336	Hypocotyl
+SRR3581345	Cotyledon
+SRR3581346	Shoot apical meristem
+SRR3581347	Root
+SRR3581352	Root Apex
+SRR3581356	Root
+SRR3581383	Leaf petiole
+SRR3581388	Leaf blade
+SRR3581499	Leaf petiole
+SRR3581591	Leaf blade
+SRR3581639	Leaf petiole
+SRR3581672	Leaf midrib
+SRR3581676	Leaf blade
+SRR3581678	Leaf petiole
+SRR3581679	Leaf midrib
+SRR3581680	Leaf blade
+SRR3581681	Leaf
+SRR3581682	Leaf petiole
+SRR3581683	Leaf midrib
+SRR3581684	Opened Anther
+SRR3581685	Carpel
+SRR3581686	Anther before opening
+SRR3581687	Stamen filament
+SRR3581688	Petal
+SRR3581689	Sepal
+SRR3581690	Young carpel
+SRR3581691	Young anther
+SRR3581692	Young sepal
+SRR3581693	Flower 1
+SRR3581694	Flower 2
+SRR3581695	Flower 3
+SRR3581696	Flower 4
+SRR3581697	Flower 5
+SRR3581698	Flower 6-8
+SRR3581699	Flower 9-11
+SRR3581700	Flower 12-14
+SRR3581701	Flower 15-18
+SRR3581702	Inflorescence
+SRR3581703	Pedicel
+SRR3581704	Inflorescence axis
+SRR3581705	Internode
+SRR3581706	Seed 1
+SRR3581707	Pod 1
+SRR3581708	Silique 2
+SRR3581709	Seed 3
+SRR3581710	Pod 3
+SRR3581711	Silique 4
+SRR3581712	Seed 5
+SRR3581713	Pod 5
+SRR3581714	Silique 6
+SRR3581715	Seed 7
+SRR3581716	Pod 7
+SRR3581717	Silique 8
+SRR3581719	Seed from silique 1
+SRR3581720	Seed from silique 2
+SRR3581721	Seed from silique 3
+SRR3581724	Seed from silique 4
+SRR3581726	Seed from silique 5
+SRR3581727	Ovule
+SRR3581728	Stigma
+SRR3581730	Carpel
+SRR3581731	Seed
+SRR3581732	Seed
+SRR3581733	Seed
+SRR3581734	Seed
+SRR3581735	Seed
+SRR3581736	Pod
+SRR3581737	Silique
+SRR3581738	Internode
+SRR3581740	Hypocotyl
+SRR3581831	Shoot apical meristem
+SRR3581833	Cotyledon
+SRR3581834	Root
+SRR3581835	Root Apex
+SRR3581836	Root
+SRR3581837	Leaf petiole
+SRR3581838	Leaf blade
+SRR3581839	Leaf petiole
+SRR3581840	Leaf blade
+SRR3581841	Leaf petiole
+SRR3581842	Leaf midrib
+SRR3581843	Leaf blade
+SRR3581844	Leaf petiole
+SRR3581845	Leaf midrib
+SRR3581846	Leaf blade
+SRR3581847	Leaf
+SRR3581848	Leaf petiole
+SRR3581849	Leaf midrib
+SRR3581850	Opened Anther
+SRR3581851	Carpel
+SRR3581852	Anther before opening
+SRR3581853	Stamen filament
+SRR3581854	Petal
+SRR3581855	Sepal
+SRR3581856	Young carpel
+SRR3581857	Young anther
+SRR3581858	Young sepal
+SRR3581859	Flower 1
+SRR3581860	Flower 2
+SRR3581861	Flower 3
+SRR3581862	Flower 4
+SRR3581863	Flower 5
+SRR3581864	Flower 6-8
+SRR3581865	Flower 9-11
+SRR3581866	Flower 12-14
+SRR3581867	Flower 15-18
+SRR3581868	Inflorescence
+SRR3581869	Pedicel
+SRR3581870	Inflorescence axis
+SRR3581871	Internode
+SRR3581872	Seed 1
+SRR3581873	Pod 1
+SRR3581874	Silique 2
+SRR3581875	Seed 3
+SRR3581876	Pod 3
+SRR3581877	Silique 4
+SRR3581878	Seed 5
+SRR3581879	Pod 5
+SRR3581880	Silique 6
+SRR3581881	Seed 7
+SRR3581882	Pod 7
+SRR3581883	Silique 8
+SRR3581884	Seed from silique 1
+SRR3581885	Seed from silique 2
+SRR3581886	Seed from silique 3
+SRR3581887	Seed from silique 4
+SRR3581888	Seed from silique 5
+SRR3581889	Ovule
+SRR3581890	Stigma
+SRR3581891	Carpel
+SRR3581892	Seed
+SRR3581893	Seed
+SRR3581894	Seed
+SRR3581895	Seed
+SRR3581896	Seed
+SRR3581897	Pod
+SRR3581898	Silique
+SRR3581899	Internode
+SRR3724649	Leaf Cold 1 hour
+SRR3724650	Leaf Cold 1 hour
+SRR3724651	Leaf Cold 3 hours
+SRR3724652	Leaf Cold 3 hours
+SRR3724663	Leaf Cold 6 hours
+SRR3724668	Leaf Cold 6 hours
+SRR3724737	Leaf Cold 12 hours
+SRR3724738	Leaf Cold 12 hours
+SRR3724739	Leaf Cold 24 hours
+SRR3724741	Leaf Cold 24 hours
+SRR3724768	Leaf Heat 1 hour
+SRR3724774	Leaf Heat 1 hour
+SRR3724778	Leaf Heat 3 hours
+SRR3724782	Leaf Heat 3 hours
+SRR3724785	Leaf Heat 6 hours
+SRR3724786	Leaf Heat 6 hours
+SRR3724787	Leaf Heat 12 hours
+SRR3724798	Leaf Heat 12 hours
+SRR3724806	Leaf Heat 24 hours
+SRR3724814	Leaf Heat 24 hours
+SRR3725446	Leaf Wounding 1 hour
+SRR3725458	Leaf Wounding 1 hour
+SRR3725471	Leaf Wounding 3 hours
+SRR3725482	Leaf Wounding 3 hours
+SRR3725493	Leaf Wounding 6 hours
+SRR3725503	Leaf Wounding 6 hours
+SRR3725516	Leaf Wounding 12 hours
+SRR3725527	Leaf Wounding 12 hours
+SRR3725538	Leaf Wounding 24 hours
+SRR3725550	Leaf Wounding 24 hours
+SRR3725560	Leaf Wounding 48 hours
+SRR3725561	Leaf Wounding 48 hours
+ERR1588817	rosette leaf
+ERR1588818	rosette leaf
+ERR1588819	rosette leaf
+ERR1588820	rosette leaf
+ERR1588821	rosette leaf
+ERR1588822	rosette leaf
+ERR1588823	rosette leaf
+ERR1588824	rosette leaf
+ERR1588825	rosette leaf
+ERR1588826	rosette leaf
+ERR1588827	rosette leaf
+ERR1588828	rosette leaf
+ERR1588829	rosette leaf
+ERR1588830	rosette leaf
+ERR1588831	rosette leaf
+ERR1588832	rosette leaf
+ERR1588833	rosette leaf
